@@ -1,4 +1,4 @@
 package com.example.spacetrader.viewModel;
 
-public class configViewModel {
+public class ConfigViewModel {
 }
