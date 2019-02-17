@@ -9,7 +9,7 @@
     tools:showIn="@layout/activity_config">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/createButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
@@ -55,16 +55,18 @@
         android:layout_marginEnd="50dp"
         android:layout_marginRight="50dp"
         android:layout_marginBottom="30dp"
-        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintBottom_toTopOf="@+id/createButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/skillsPointsLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
         android:layout_marginTop="25dp"
-        android:text="Skill Points"
+        android:text="@string/skill_points_label"
         app:layout_constraintStart_toStartOf="@+id/name"
         app:layout_constraintTop_toBottomOf="@+id/name" />
 
@@ -76,5 +78,46 @@
         android:text="16"
         app:layout_constraintEnd_toEndOf="@+id/name"
         app:layout_constraintTop_toBottomOf="@+id/name" />
+
+    <TextView
+        android:id="@+id/pilotLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="322dp"
+        android:layout_marginRight="322dp"
+        android:text="@string/pilotLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/skillsPointsLabel"
+        app:layout_constraintTop_toBottomOf="@+id/skillsPointsLabel" />
+
+    <TextView
+        android:id="@+id/engineerLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/engineer_label"
+        app:layout_constraintStart_toStartOf="@+id/pilotLabel"
+        app:layout_constraintTop_toBottomOf="@+id/traderLabel" />
+
+    <TextView
+        android:id="@+id/traderLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/trader_label"
+        app:layout_constraintStart_toStartOf="@+id/pilotLabel"
+        app:layout_constraintTop_toBottomOf="@+id/fighterLabel" />
+
+    <TextView
+        android:id="@+id/fighterLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/fighter_label"
+        app:layout_constraintStart_toStartOf="@+id/pilotLabel"
+        app:layout_constraintTop_toBottomOf="@+id/pilotLabel" />
 
 </android.support.constraint.ConstraintLayout>
