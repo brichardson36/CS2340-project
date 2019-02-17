@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">spacetrader</string>
-    <string name="title_activity_config">ConfigActivity</string>
+    <string name="app_name">Space Trader</string>
+    <string name="title_activity_config">New Game</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="new_game">New Game</string>
+    <string name="loadGameButton">Load Game</string>
 </resources>
