@@ -32,6 +32,22 @@ class ConfigActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
             Toast.makeText(this@ConfigActivity, "New player with name ___ and difficulty ____", Toast.LENGTH_SHORT).show()
         }
 
+        val pilotSeekBar = findViewById<SeekBar>(R.id.pilotSeekBar)
+        pilotSeekBar?.setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener {
+            override fun onProgressChanged(pilotSeekBar: SeekBar, progress: Int, fromUser: Boolean) {
+                // Write code to perform some action when progress is changed.
+            }
+
+            override fun onStartTrackingTouch(pilotSeekBar: SeekBar) {
+                // Write code to perform some action when touch is started.
+            }
+
+            override fun onStopTrackingTouch(pilotSeekBar: SeekBar) {
+                Toast.makeText(this@ConfigActivity, "Pilot points: " + pilotSeekBar.progress, Toast.LENGTH_SHORT).show()
+            }
+        })
+
+
         getSupportActionBar()?.setDisplayHomeAsUpEnabled(true);
     }
 

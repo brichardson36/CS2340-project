@@ -11,10 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c4a9063e-1f0b-4947-be6d-b3249cf927cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/ConfigActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/ConfigActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,7 @@
         <counts>
           <entry key="gradle" value="4" />
           <entry key="java" value="8" />
-          <entry key="kt" value="21" />
+          <entry key="kt" value="22" />
           <entry key="xml" value="18" />
         </counts>
       </usages-collector>
@@ -54,7 +52,7 @@
         <counts>
           <entry key="Groovy" value="4" />
           <entry key="JAVA" value="8" />
-          <entry key="Kotlin" value="21" />
+          <entry key="Kotlin" value="22" />
           <entry key="XML" value="18" />
         </counts>
       </usages-collector>
@@ -63,18 +61,18 @@
           <entry key="Player" value="15" />
           <entry key="dummy" value="2" />
           <entry key="gradle" value="4" />
-          <entry key="java" value="61" />
-          <entry key="kt" value="1205" />
-          <entry key="txt" value="235" />
+          <entry key="java" value="69" />
+          <entry key="kt" value="1238" />
+          <entry key="txt" value="312" />
           <entry key="xml" value="198" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="61" />
-          <entry key="Kotlin" value="1205" />
-          <entry key="PLAIN_TEXT" value="252" />
+          <entry key="JAVA" value="69" />
+          <entry key="Kotlin" value="1238" />
+          <entry key="PLAIN_TEXT" value="329" />
           <entry key="XML" value="198" />
         </counts>
       </usages-collector>
@@ -87,15 +85,15 @@
           <provider selected="true" editor-type-id="android-designer2" />
           <provider editor-type-id="text-editor">
             <state relative-caret-position="461">
-              <caret line="49" column="42" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="42" />
+              <caret line="58" column="42" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_config.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
@@ -125,11 +123,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/ConfigActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="e#38#532#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -167,15 +162,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/viewModel/ConfigViewModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -2582,8 +2568,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/model/Game.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_start.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/StartActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_config.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_config.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/ConfigActivity.kt" />
       </list>
     </option>
@@ -2710,6 +2696,9 @@
     <key name="android.template.parentActivityClass">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2799,9 +2788,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1538" height="1177" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.22860962" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.22860962" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -2818,7 +2806,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" weight="0.3299539" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.3299539" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3299539" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
@@ -3001,22 +2989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_config.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="49" column="42" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_config.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
@@ -3025,13 +2997,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_config.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_config.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="58" column="42" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/entity/Game.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/ConfigActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="e#38#532#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
