@@ -1,4 +1,4 @@
-package com.example.spacetrader.model
+package com.example.spacetrader.entity
 
 class Game constructor(val _player: Player, val _difficulty: Difficulty){
 
