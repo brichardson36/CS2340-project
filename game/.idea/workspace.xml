@@ -9,15 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4a9063e-1f0b-4947-be6d-b3249cf927cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/model/Skill.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/viewModel/ConfigViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/model/Player.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/model/Player.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/ConfigActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/view/ConfigActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spacetrader/viewModel/ConfigViewModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_config.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c4a9063e-1f0b-4947-be6d-b3249cf927cb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2796,7 +2788,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1396" height="1177" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.25258493" />
       <window_info id="Structure" side_tool="true" />
