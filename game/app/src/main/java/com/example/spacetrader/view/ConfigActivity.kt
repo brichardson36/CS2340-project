@@ -1,8 +1,6 @@
 package com.example.spacetrader.view
 
-import android.content.Intent
 import android.os.Bundle
-import android.support.design.widget.Snackbar
 import android.support.v7.app.AppCompatActivity;
 import android.text.Editable
 import android.text.TextWatcher
@@ -10,12 +8,10 @@ import android.view.MenuItem
 import android.view.View
 import android.widget.*
 import com.example.spacetrader.R
-import com.example.spacetrader.model.Difficulty
+import com.example.spacetrader.entity.Difficulty
 import com.example.spacetrader.viewModel.ConfigViewModel
 
 import kotlinx.android.synthetic.main.activity_config.*
-import kotlinx.android.synthetic.main.content_config.*
-import kotlinx.android.synthetic.main.content_start.*
 
 class ConfigActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener, TextWatcher {
 

@@ -1,4 +1,4 @@
-package com.example.spacetrader.model
+package com.example.spacetrader.entity
 
 class Player constructor(val _name: String){
 
