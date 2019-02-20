@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.spacetrader">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="SpaceTrader"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".view.StartActivity"
-            android:label="@string/title_activity_start"
+            android:name=".view.MainActivity"
+            android:label="SpaceTrader"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +25,7 @@
             android:name=".view.ConfigActivity"
             android:label="@string/title_activity_config"
             android:theme="@style/AppTheme.NoActionBar"
-            android:parentActivityName=".view.StartActivity">
+            android:parentActivityName=".view.MainActivity">
         </activity>
     </application>
 

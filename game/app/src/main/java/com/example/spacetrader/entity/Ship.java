@@ -1,5 +1,5 @@
-package com.example.spacetrader.model
+package com.example.spacetrader.entity;
 
-enum class Ship {
+public enum Ship {
     FLEA, GNAT, FIREFLY, MOSQUITO, BUMBLEBEE, BEETLE, HORNET, GRASSHOPPER, TERMITE, WASP
 }
