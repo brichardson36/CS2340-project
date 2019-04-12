@@ -1,8 +1,7 @@
 package com.example.spacetrader.viewModel
 
-import com.example.spacetrader.model.Difficulty
-import com.example.spacetrader.model.Player
-import com.example.spacetrader.model.Skill
+import com.example.spacetrader.entity.Difficulty
+import com.example.spacetrader.entity.Skill
 
 class ConfigViewModel {
 
